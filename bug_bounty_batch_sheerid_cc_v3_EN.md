@@ -153,9 +153,3 @@ We reserve the right to update rules. Previous reports remain valid under the ve
 **Hunt hard. Be detailed. Get paid fast.** 🏆💰
 
 The SheerID Security Team
-
----
-
-*This is currently one of the most open and realism-focused bug bounty programs available. It incorporates every authorization and rule we have discussed.*
-
-**Ready to use on GitHub** — copy into `SECURITY.md`. Replace the contact email if needed.
